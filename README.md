@@ -1,2 +1,2 @@
-# snake_game
+# snake game
 this is the iconic yet simple snake game, with a twist
